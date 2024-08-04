@@ -7,12 +7,12 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D6093",
-    "light": "#0751C9",
-    "dark": "#0D8893",
+    "primary": "#0E95E8",
+    "light": "#0E94E7",
+    "dark": "#0E94E7",
     "anchors": {
-      "from": "#0D6093",
-      "to": "#0785C9"
+      "from": "#1796CD",
+      "to": "#0981C2"
     }
   },
   "topbarLinks": [
@@ -28,6 +28,10 @@
   "tabs": [
     {
       "name": "SkyBlock",
+      "url": "api-reference"
+    },
+    {
+      "name": "Survival",
       "url": "api-reference"
     }
   ],
