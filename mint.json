@@ -1,33 +1,33 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit Sa",
+  "name": "MCKutusu Yardım",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#0D6093",
+    "light": "#0751C9",
+    "dark": "#0D8893",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#0D6093",
+      "to": "#0785C9"
     }
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Destek",
+      "url": "https://mckutusu.com/support"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Geri Dön",
+    "url": "https://mckutusu.com"
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "SkyBlock",
       "url": "api-reference"
     }
   ],
